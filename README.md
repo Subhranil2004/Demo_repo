@@ -11,3 +11,4 @@ There will be a greeting for you again but you have to know the language 'C' or 
 ## Local Development
 
 1. Open index.html in your browser
+2. Have fun!
